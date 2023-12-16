@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "kbyocr"
+version = "0.1.4"
+description = "Automatically denoise degraded document images to improve ocr engine"
+authors = ["prenes <prenes.contact@gmail.com>"]
+keywords = ["denoise", "ocr"]
+readme = "README.md"
+license = "MIT"
+homepage = "https://www.prenes.org/"
+repository = "https://github.com/AI-Innovator/kbyocr"
+include = [
+    "LICENSE",
+]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+poetry = "^1.0.0"
+torch = "1.11.0"
+opencv-python = "4.5.3.56"
+torchvision = "0.12.0"
+tqdm = "^4.64.1"
+scipy = "1.7.3"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.scripts]
+vspoetry = 'kbyocr:main'
+
+[build-system]
+requires = ["poetry>=1.0.0"]
+build-backend = "poetry.masonry.api"

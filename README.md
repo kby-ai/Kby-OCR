@@ -1,4 +1,14 @@
-<img alt="face-recognition-plugin" src="https://user-images.githubusercontent.com/82228271/190843751-a73de915-f3dc-485f-a63b-8a89a48b6882.png">
+<div align="center">
+<img alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/125717930/246971879-8ce757c3-90dc-438d-807f-3f3d29ddc064.png" width=500/>
+</div>
+
+
+<div align="left">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<img src="https://img.shields.io/github/issues/genderev/assassin" alt="issue"/>
+<img src="https://img.shields.io/github/issues-pr/genderev/assassin" alt="pr"/>
+</div>
 
 <details open>
 <summary><h2>How it works</h2></summary>
@@ -53,15 +63,4 @@ cv2.imwrite('unit_test/unit_test/binary.png.png', result)
 ```
 
 </details>
-<details open>
-<summary><h2>Contact</h2></summary>
 
-Please reach out to me for your any projects in Python, Web Development and Computer Vision and NLP fields.
-<div align="left">
-<a target="_blank" href="https://t.me/jareddean"><img src="https://img.shields.io/badge/telegram-prenes-green.svg?logo=telegram " alt="www.prenes.org"></a>
-<a target="_blank" href="https://wa.me/+14422295661"><img src="https://img.shields.io/badge/whatsapp-prenes-green.svg?logo=whatsapp " alt="www.prenes.org"></a>
-<a target="_blank" href="https://join.slack.com/t/prenes/shared_invite/zt-1cx925fip-vL4nKJN64XBMbx8vdwHP7Q"><img src="https://img.shields.io/badge/slack-prenes-green.svg?logo=slack " alt="www.prenes.org"></a>
-<a target="_blank" href="skype:live:.cid.4b536a6c3cc88a8c?chat"><img src="https://img.shields.io/badge/skype-prenes-green.svg?logo=skype " alt="www.prenes.org"></a>
-</div>
-
-</details>

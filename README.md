@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/82228271/210924923-b115c6c2-c748-4fba-
 <details open>
 <summary><h2>Installation</h2></summary>
   
-```
+```bash
 pip install kbyocr
 ```
  
@@ -31,7 +31,7 @@ pip install kbyocr
 
 <h3>Denoise OCR</h3>
 
-```
+```python
 import cv2
 from kbyocr import denoise_ocr
 
@@ -42,7 +42,7 @@ cv2.imwrite('result.png', result)
 
 <h3>Thinning</h3>
 
-```
+```python
 import cv2
 from kbyocr import thinning
 
@@ -53,7 +53,7 @@ cv2.imwrite('unit_test/thin.png', result)
 
 <h3>Binarization</h3>
 
-```
+```python
 import cv2
 from kbyocr import binarization
 
